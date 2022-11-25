@@ -23,7 +23,7 @@ export default function Car() {
         <input type="text" onKeyUp={(event) => {
             updateModel(event)
         }} />
-        {/* <button type="button" onClick={() => updateModel("Fiesta")}>Update Model</button> */}
+        {/* <buttonnnnn type="button" onClick={() => updateModel("Fiesta")}>Update Model</button> */}
     </div>
   )
 }
